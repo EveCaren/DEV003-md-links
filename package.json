@@ -25,7 +25,10 @@
   },
   "homepage": "https://github.com/EveCaren/DEV003-md-links#readme",
   "keywords": [
-    
+    "jest", 
+    "node",
+    "javascript",
+    "npm"
   ],
   "author": "Evelin Eufracio",
   "license": "ISC",
